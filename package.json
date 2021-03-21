@@ -7,12 +7,14 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cauê Rodrigues do Prado",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "request": "^2.88.2"
+    "parse-function": "^5.6.10",
+    "request": "^2.88.2",
+    "consign": "^0.1.2"
   }
 }
